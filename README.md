@@ -7,3 +7,5 @@ A very simple test to work with Git. After that, we want to:
 * probably make some more changes
 * collaborate
 * have lunch!
+
+I will do a quick collaboration experiment with Larry!
